@@ -1,3 +1,3 @@
 # personal-demo
 This is my first repository.
-author - Amir Hamza
+Author - Amir Hamza
